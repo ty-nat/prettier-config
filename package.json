@@ -1,7 +1,7 @@
 {
   "name": "@ty-nat/prettier-config",
   "description": "my prettier config",
-  "version": "1.0.0",
+  "version": "0.0.0-semantic-release",
   "repository": "https://github.com/ty-nat/prettier-config",
   "publishConfig": {
     "access": "public"
