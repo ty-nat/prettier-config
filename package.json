@@ -1,0 +1,20 @@
+{
+  "name": "@ty-nat/prettier-config",
+  "description": "My Prettier config",
+  "version": "1.0.0",
+  "repository": "https://github.com/ty-nat/prettier-config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "license": "MIT",
+  "author": {
+    "name": "ty-nat"
+  },
+  "release": {
+    "branches": ["main"]
+  }
+}
