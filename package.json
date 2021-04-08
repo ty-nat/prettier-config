@@ -1,6 +1,6 @@
 {
   "name": "@ty-nat/prettier-config",
-  "description": "My Prettier config",
+  "description": "my prettier config",
   "version": "1.0.0",
   "repository": "https://github.com/ty-nat/prettier-config",
   "publishConfig": {
